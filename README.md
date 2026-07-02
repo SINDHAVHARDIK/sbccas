@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amroli BCA)</h1>
+<h1 align="center">Hi 👋, I'm Amroli BCA </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Education-Top--Class-blue?style=for-the-badge&logo=education" alt="Education" />
